@@ -1,0 +1,1 @@
+hello im text2 file in Git
